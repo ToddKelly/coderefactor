@@ -1,6 +1,6 @@
 Code Refactor
 
-Go to URL: https://toddkelly.github.io/coderefactor/Develop/Coderefactor.html
+Go to URL: https://toddkelly.github.io/coderefactor/
 
 As a marketing agency the codebase that follows accessibility standards so that our site is optimized for search engines
 
